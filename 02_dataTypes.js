@@ -9,7 +9,7 @@
 , Undefined: 
 , Null: stand alone value 
 , Symbol: unique component
-, Object:
+, Object: its big topic 
 --> The Object Datatype : contain both built-in objects, and user defined objects
 * Built-in object types : objects, arrays, dates, maps, sets, intarrays, floatarrays, promises, and more.
 */
